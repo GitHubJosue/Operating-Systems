@@ -1,1 +1,2 @@
-
+One function of an operating system is it's file management. It is able to keep track of where information is stored. Then, when needed
+it can find and retrive the data. It is able to orgainize folders of datas using subfolders.
