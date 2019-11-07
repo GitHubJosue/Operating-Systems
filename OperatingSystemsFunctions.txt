@@ -2,3 +2,6 @@ One function of an operating system is it's file management. It is able to keep 
 it can find and retrive the data. It is able to orgainize folders of datas using subfolders.
 
 Another Fuction of an operating system is to execute programs. A regular OS is able to run multiple programs. It is one of the main funcions people buy computers for.
+
+On windows 10 speficially it provides viris protection. Most OS provide some sort of protection for data. The latest version of windows
+comes with anti-virus software.
